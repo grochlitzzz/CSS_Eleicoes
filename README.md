@@ -2,6 +2,7 @@
 Aim of the project is to compare the toxicity/polarization on twitter and the elections results/abstention 
 
 ## TO-DOs
+- Find model for Sentiment Analysis/Toxicity Score/... in PT
 - Filter by date --> July-Oct
 - Group the tweets by states
   - Different CSVs --> Set the Data Set
