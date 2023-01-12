@@ -3,10 +3,12 @@ Aim of the project is to compare the toxicity/polarization on twitter and the el
 
 ## TO-DOs
 - Find model for Sentiment Analysis/Toxicity Score/... in PT
-- Filter by date --> July-Oct
 - Group the tweets by states
   - Different CSVs --> Set the Data Set
 - Check toxicity in the main query (maybe limit the query to fewer tweets)
+
+## Done
+- Collect tweets
 
 ## Methodology
 - Check how toxic tweets were in each state
