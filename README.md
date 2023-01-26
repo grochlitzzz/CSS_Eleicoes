@@ -15,7 +15,7 @@ Aim of the project is to compare the toxicity/polarization on twitter and the el
 *Files used for calculations, logic and data collection*
 - FinalAug/-Sep/-Oct => Gathering tweets from the respective month (**@TwitterAPI**); toxicity score calculation (**@PerspectiveAPI**); adding results to an individual dictionary with states as keys; writing said dictionary into a JSON file (see **Data**) 
 - ToxicityAndElectionResults => Combining data from all months; calculating average toxicity for each state and creating graphs 
-- Other files => Prototypes, testing, and scraped approaches 
+- Archive => Prototypes, testing, and scraped approaches 
 
 ### Data
 *Tweets toxicity scores for respective months*
