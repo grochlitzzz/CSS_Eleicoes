@@ -26,10 +26,16 @@ Aim of the project is to compare the toxicity/polarization on twitter and the el
 
 
 ## Libraries
-- tweepy: https://docs.tweepy.org/en/stable/
+- tweepy: Working with Twitter - https://docs.tweepy.org/en/stable/
+- numpy: Calculate correlation - https://numpy.org/ 
+- matplotlib: Create graphs - https://matplotlib.org/ 
+- googleapiclient(discovery): Toxicity measurement - **@PerspectiveAPI**
+- tqdm: Progressbar to check on tweets gathering progress
+- ufbr: Dictionary with Brazilian cities in each state (used for mapping tweets into each state) - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjrwcWZm-b8AhXFhP0HHaQzDaEQFnoECBkQAQ&url=https%3A%2F%2Fgithub.com%2FSidon%2Fpy-ufbr&usg=AOvVaw174SO-sOoypkRCvAj0Aquk
 - datetime
-- time
-- ufbr: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjrwcWZm-b8AhXFhP0HHaQzDaEQFnoECBkQAQ&url=https%3A%2F%2Fgithub.com%2FSidon%2Fpy-ufbr&usg=AOvVaw174SO-sOoypkRCvAj0Aquk
+- time 
+- csv
+- json
 
 ## References
 - data_elections: https://sig.tse.jus.br/ords/dwapr/seai/r/sig-eleicao/estatisticas-eleicao?session=210277115010534
