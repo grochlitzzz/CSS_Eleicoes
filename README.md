@@ -6,7 +6,7 @@ Aim of the project is to compare the toxicity/polarization on twitter and the el
 - Gather data from Twitter
 - Compute the toxicity of each tweet
 - Calculate average toxicity score for each state
-- Compare score against elecions results/abstention
+- Compare score against elections results/abstention
 
 
 ## File System
